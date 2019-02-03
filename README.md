@@ -9,6 +9,13 @@ SSD.m             : This function computes the Sum Of Square Differences of 2 gi
 dispMap1.jpg		  : The generated 3D plot of stereo pair 
 dispMap2.jpg		  : The generated disparity map of stereo pair with SSD and window-based matching
 dispMap3.jpg		  : The generated disparity map of stereo pair using block matching w/ Dynamic Programming
+```
+```
 tsukuba_l.png		  : Stereo image left pair (Original image of Q4)
+```
+![tsukuba_left](/tsukuba_l.png)
+
+```
 tsukuba_r.png		  : Stereo image right pair (Original image of Q4)
 ```
+![tsukuba_right](/tsukuba_r.png)
