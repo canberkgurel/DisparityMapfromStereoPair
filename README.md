@@ -1,5 +1,8 @@
 # DisparityMapfromStereoPair
 Given the stereo pair of two scan-line aligned images, tsukuba_l.png and tsukuba_r.png, compute the disparity map of the stereo pair images.
+
+![](/ProblemStatement.jpg)
+
 ```
 midterm_Q4_v1.m : This code computes disparity map of the stereo pair
 midterm_Q4_SSD.m : This code computes disparity map of the stereo pair using SSD and window-based matching
